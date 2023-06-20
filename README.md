@@ -61,4 +61,5 @@ sudo systemctl status borg-backup.timer
 	   Active: active (waiting) since Mon 2023-06-20 16:24:15 UTC; 20s ago
 ```
 проверяем список бекапов
+
 <img width="596" alt="image" src="https://github.com/tarrascue/backup/assets/117171128/ecada1cb-bb6c-4f85-b696-e78ab7af6ca2">
