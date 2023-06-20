@@ -43,6 +43,7 @@ borg create --stats --list borg@192.168.56.160:/var/backup/::etc-{now:%Y-%m-%d_%
 <img width="380" alt="image" src="https://github.com/tarrascue/backup/assets/117171128/b3794086-fd76-4a36-8755-3929d5b32b65">
 
 сомтрим список бекапов и достаем файл 
+
 <img width="589" alt="image" src="https://github.com/tarrascue/backup/assets/117171128/df999358-cad3-4515-a076-773b5bcbe026">
 
 Включаем и запускаем службу таймера
