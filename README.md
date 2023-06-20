@@ -11,7 +11,8 @@ vagrant up
 vagrant ssh backup
 ```
 
-Сомтрим диски и настраиваем sdb
+
+Смотрим диски и настраиваем sdb
 <img width="336" alt="image" src="https://github.com/tarrascue/backup/assets/117171128/eb7fe5f2-ac76-408f-bab7-faf9bf597111">
 
 Отформатируем в xfs и монтируем
